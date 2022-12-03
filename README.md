@@ -1,11 +1,11 @@
-# My_Learning_Path
+# My Learning Path
 A place for my experiments and learnings ,  It's a way to keep track, organize, and share my learning. 
 
 
 
 I'm currently interested in/excited about:
-A) Data science and Analytics
-B) Data Engineering 
+- A) Data science and Analytics
+- B) Data Engineering 
 
 
 ## what I am learning
